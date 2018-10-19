@@ -1,2 +1,4 @@
 HI ALL.
 ĐÂY LÀ PROJECT DEMO ĐỂ TRAINING MAGENTO2 CHO MỌI NGƯỜI
+MÌNH SẼ CLONE TRANG NÀY THÀNH 1 THEME MAGENTO2
+http://webcotheme.com/tizzy/tiz001/
